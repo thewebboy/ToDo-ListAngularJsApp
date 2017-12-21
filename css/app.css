@@ -1,0 +1,23 @@
+span.done-true{
+  color:red;
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+span[contenteditable = "true"] {
+  background: grey;
+  padding: 3px;
+}
+
+.center {
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    width: 60%;
+    border: 3px solid grey;
+    padding: 10px;
+}
+
+#content{
+  background-color: #82c0e0;
+}
